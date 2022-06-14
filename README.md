@@ -10,4 +10,4 @@ This is a small data-science project to demonstrate my abilities with common too
     <li> Create and normalize dataframe that includes baisic features that could be relevant to a card's strength </li>
     <li> Use ML tools to make a function that can predict the strength of hypothetical cards </li>
 </ol>
-This project is unlikely to weild impactful results, since the strength of cards is tied to complex factors like card-specific text that will not be evaluated in this project. The goal of this project is instead meant to show my proficiency with data science tools. Hypothetically, a text-analysis may be able to improve my results but the sample size is likely not large enough for this approach to be effective
+This project is unlikely to weild impactful results, since the strength of cards is tied to complex factors like card-specific text that will not be evaluated in this project. The goal of this project is to show my proficiency with data science tools. Hypothetically, a text-analysis may be able to improve my results but the sample size is likely not large enough for this approach to be effective
