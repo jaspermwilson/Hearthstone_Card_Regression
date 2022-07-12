@@ -12,3 +12,5 @@ This is a small data-science project to demonstrate my abilities with common too
 This project is unlikely to yield impactful results, since the strength of cards is tied to complex factors like card-specific text that will not be evaluated in this project. The goal of this project is to show my competence with data science tools. 
 
 This project was NOT built from any template. This work is completely self motivated and directed.
+
+Please view the Jupyter Notebook to see my process and results.
