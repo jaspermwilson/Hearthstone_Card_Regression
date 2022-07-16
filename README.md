@@ -13,4 +13,4 @@ This project is unlikely to yield impactful results, since the strength of cards
 
 This project was NOT built from any template. This work is completely self motivated and directed.
 
-Please view the Jupyter Notebook to see my process and results.
+Please view the Jupyter Notebook to see my process and results. Errors were included in this notebook to show my process and ability to problem-solve.
